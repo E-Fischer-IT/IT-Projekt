@@ -11,10 +11,12 @@ Die Infrastruktur wurde lokal in VMware schrittweise aufgebaut.
 
 ## Infrastruktur
 
-DC-01       |   Windows Server 2022       |   Domain Controller
-Client-01   |   Windows 11 Pro            |   Client Testsystem
-APP-01      |   Ubuntu Server 26.04 LTS   |   Docker / Monitoring
-BACKUP-01   |   Ubuntu Server 26.04 LTS   |   Backupserver
+| Name | Betriebssystem | Funktion |
+|:---:|:---:|:---:|
+| DC-01 | Windows Server 2022 | Domain Controller / DNS |
+| Client-01 | Windows 11 Pro | Domänen-Client |
+| APP-01 | Ubuntu Server 24.04 LTS | Applikations- und Monitoringserver |
+| BACKUP-01 | Ubuntu Server 24.04 LTS | Backupserver |
 
 
 ## Verwendete Technologien
