@@ -65,7 +65,7 @@ der Docker Umgebung von APP-01 mittels rsync, Bash und systemd.
 
 ## Dokumentation
 
-Eine ausführlichere Projektdokumentation ist [hier](IT-Projekt/Projekt-Dokumentation.pdf) zu finden.
+Eine ausführlichere Projektdokumentation ist [hier](Projekt-Dokumentation.pdf) zu finden.
 
 
 
