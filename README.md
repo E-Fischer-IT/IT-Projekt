@@ -44,7 +44,7 @@ Die Infrastruktur wurde lokal in VMware schrittweise aufgebaut.
 Aufbau eines Domain Controllers mit Active Directory Domain Services,
 DNS, Benutzer- und Gruppenverwaltung sowie eine automatische Gruppenorientierte Ordnerfreigabe. 
 
-Zusätzlich: ein selbst geschriebenes Powershell Skript, welches das erstellen von Benutzern vereinfacht. [Siehe "Create-User.ps1"]
+Zusätzlich: ein selbst entworfenes Powershell Skript, welches das erstellen von Benutzern vereinfacht. [Zum Skript](docs/Create-User.ps1)
  
 ### Linux Administration
 
